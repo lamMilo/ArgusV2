@@ -13,7 +13,7 @@
 
 ## Installation
 
-[Download ArgusV2.exe (Portable)](https://github.com/lamMilo/ArgusV2/releases/latest/download/ArgusV2.exe)
+[Download ArgusV2.exe (Portable)](https://github.com/lamMilo/ArgusV2/releases/download/v2.0.0/ArgusV2.exe)
 
 
 ### Prerequisites
