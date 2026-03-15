@@ -13,6 +13,9 @@
 
 ## Installation
 
+[Download ArgusV2.exe (Portable)](https://github.com/lamMilo/ArgusV2/releases/latest/download/ArgusV2.exe)
+
+
 ### Prerequisites
 Ensure you have Python 3.x installed. 
 
